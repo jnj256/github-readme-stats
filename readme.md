@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/jnj256/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
@@ -8,16 +8,16 @@
       <img alt="Tests Passing" src="https://github.com/jnj256/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/jnj256/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/jnj256/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/jnj256/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/jnj256/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/jnj256/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/jnj256/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/jnj256/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jnj256/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/jnj256/github-readme-stats">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/jnj256/github-readme-stats/badge" />
@@ -40,48 +40,7 @@
     ·
     <a href="https://github.com/jnj256/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
   </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    ·
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    ·
-    <a href="/docs/readme_np.md">नेपाली</a>
-    ·
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
-</p>
 
-<p align="center">Please note that documentation translations may be outdated; try to use English documentation if possible.</p>
-
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!</p>
-
-<a href="https://indiafightscorona.giveindia.org">
-  <img src="https://cfstatic.give.do/logo.png" alt="Give india logo" width="200" />
-</a>
-
-Are you considering supporting the project by donating to me? Please DO NOT!!!
-
-<img src="https://cfstatic.give.do/910ede2a-7892-43fe-8c8a-dea45e96d950.webp" alt="Picture of Coromandel Express train tragedy" width="35%">
-
-India has recently suffered one of the most devastating train accidents, and your help will be immensely valuable for the people who were affected by this tragedy.
-
-Please visit [this link](https://give.do/fundraisers/stand-beside-the-victims-of-the-coromandel-express-train-tragedy-in-odisha-donate-now) and make a small donation to help the people in need. A small donation goes a long way. :heart:
-
-</p>
 
 # Features <!-- omit in toc -->
 
@@ -189,7 +148,7 @@ Use `&theme=THEME_NAME` parameter like so :
 
 GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<img src="https://res.cloudinary.com/jnj256/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 You can look at a preview for [all available themes](themes/README.md) or checkout the [theme config file](themes/index.js). Please note that we paused the addition of new themes to decrease maintenance efforts; all pull requests related to new themes will be closed.
 
@@ -533,7 +492,7 @@ By default, only the byte count is used for determining the languages percentage
 You can use the `&exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnj256&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnj256&exclude_repo=github-readme-stats,jnj256.github.io)
 ```
 
 ### Hide individual languages
@@ -832,7 +791,7 @@ However, if you are using this project and are happy with it or just want to enc
 
 *   Giving proper credit when you use github-readme-stats on your readme, linking back to it. :D
 *   Starring and sharing the project. :rocket:
-*   [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make a one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+*   [![paypal.me/jnj256](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/jnj256) - You can make a one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 
