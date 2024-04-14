@@ -34,7 +34,7 @@ You can pass a query parameter `&show=` to show any specific additional stats wi
 To enable icons, you can pass `&show_icons=true` in the query param, like so:
 
 ```md
-![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnj256&show_icons=true)
+![Jitesh's GitHub stats](https://github-readme-stats-3o0or97k9-jnj256s-projects.vercel.app/api?username=jnj256&show_icons=true)
 ```
 
 ### Themes
