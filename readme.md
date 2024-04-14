@@ -54,9 +54,8 @@ GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, 
 You can look at a preview for [all available themes](themes/README.md) or checkout the [theme config file](themes/index.js). Please note that we paused the addition of new themes to decrease maintenance efforts; all pull requests related to new themes will be closed.
 
 #### Responsive Card Theme
-
-[![Jitesh's GitHub stats-Dark](https://github-readme-stats-3o0or97k9-jnj256s-projects.vercel.app/api?username=jnj256\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/jnj256/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Jitesh's GitHub stats-Light](https://github-readme-stats-3o0or97k9-jnj256s-projects.vercel.app/api?username=jnj256\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/jnj256/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Jitesh's GitHub stats-Dark](https://github-readme-stats-one-brown-55.vercel.app/api?username=jnj256\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/jnj256/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Jitesh's GitHub stats-Light](https://github-readme-stats-one-brown-55.vercel.app/api?username=jnj256\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/jnj256/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
