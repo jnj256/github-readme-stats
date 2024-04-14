@@ -1,6 +1,6 @@
 # GitHub Stats Card
 ```md
-[![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnj256)](https://github.com/jnj256/github-readme-stats)
+[![Jitesh's GitHub stats](https://github-readme-stats-3o0or97k9-jnj256s-projects.vercel.app/api?username=jnj256)](https://github.com/jnj256/github-readme-stats)
 ```
 
 > [!WARNING]\
