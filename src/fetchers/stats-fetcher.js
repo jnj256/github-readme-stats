@@ -16,7 +16,7 @@ dotenv.config();
 
 // GraphQL queries.
 const GRAPHQL_REPOS_FIELD = `
-  repositories(first: 100, affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER] orderBy: {direction: DESC, field: STARGAZERS}, after: $after) {
+  repositories(first: 100, affiliations:[OWNER, ORGANIZATION_MEMBER, COLLABORATOR],&nbsp;ownerAffiliations:[OWNER, ORGANIZATION_MEMBER, COLLABORATOR] orderBy: {direction: DESC, field: STARGAZERS}, after: $after) {
     totalCount
     nodes {
       name
