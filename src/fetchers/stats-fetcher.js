@@ -31,6 +31,7 @@ const GRAPHQL_REPOS_FIELD = `
   }
 `;
 
+
 const GRAPHQL_REPOS_QUERY = `
   query userInfo($login: String!, $after: String) {
     user(login: $login) {
@@ -48,10 +49,10 @@ const GRAPHQL_STATS_QUERY = `
         totalCommitContributions,
         totalPullRequestReviewContributions
       }
-      repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
+      repositoriesContributedTo(first: 1, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
         totalCount
       }
-      pullRequests(first: 100) {
+      pullRequests(first: 1) {
         totalCount
       }
       mergedPullRequests: pullRequests(states: MERGED) @include(if: $includeMergedPullRequests) {
