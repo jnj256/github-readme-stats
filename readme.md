@@ -483,18 +483,18 @@ You can use the `&hide_progress=true` option to hide the percentages and the pro
 Change the `?username=` value to your [WakaTime](https://wakatime.com) username.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=ffflabs)](https://github.com/jnj256/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=jnj256)](https://github.com/jnj256/github-readme-stats)
 ```
 
 ### Demo
 
-![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=jnj256)
 
-![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=ffflabs\&hide_progress=true)
+![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=jnj256\&hide_progress=true)
 
 *   Compact layout
 
-![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=jnj256\&layout=compact)
 
 ***
 
@@ -568,7 +568,7 @@ Choose from any of the [default themes](#themes)
 
 *   WakaTime card
 
-![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's WakaTime stats](https://github-readme-stats-one-brown-55.vercel.app/api/wakatime?username=jnj256)
 
 ***
 
